@@ -1,2 +1,2 @@
 #!/bin/bash
-
+read -p "" & clear & cat [filename].txt | aplay
